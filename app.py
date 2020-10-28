@@ -131,7 +131,6 @@ istek = st.selectbox('Hangi oyunu oynamak istersiniz?',
                     ('--', 'EuroJackPot', 'Lotto'))
 
 if istek == 'EuroJackPot':
-    random.seed(10)
     euro()
 elif istek == 'Lotto':
     lotto()
