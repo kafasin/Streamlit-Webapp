@@ -1,2 +1,2 @@
 # streamlit
-Streamlit Application
+--Lotto/Eurojackpot Randomizer Application--
